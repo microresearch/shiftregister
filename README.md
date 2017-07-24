@@ -1,2 +1,4 @@
 # shiftregister
-Software for the Shift Register project.
+Software and hardware for the Shift Register project:
+
+http://shiftregister.info/
